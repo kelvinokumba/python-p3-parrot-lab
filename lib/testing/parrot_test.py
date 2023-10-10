@@ -1,7 +1,7 @@
 import io
 import sys
 
-from lib.parrot import parrot
+from parrot import parrot
 
 class TestParrot:
     '''Function parrot() in parrot.py'''
